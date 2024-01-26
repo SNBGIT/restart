@@ -1,3 +1,5 @@
 git maven
 solaris
 selenium
+sipxolo
+hifi
